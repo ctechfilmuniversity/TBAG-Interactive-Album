@@ -43,34 +43,34 @@ import {
   rumpf_thumb,
   brauwers_thumb,
   schaeuble_thumb,
-  // ho_thumb,
-  // gasparik_thumb,
+  ho_thumb,
+  gasparik_thumb,
   mircea_01_thumb,
   braune_thumb,
-  // schreiber_01_thumb,
-  // volz_thumb,
+  schreiber_01_thumb,
+  volz_thumb,
 
   winter_preview,
   rumpf_preview,
   brauwers_preview,
   schaeuble_preview,
-  // ho_preview,
-  // gasparik_preview,
+  ho_preview,
+  gasparik_preview,
   mircea_01_preview,
-  // braune_preview,
-  // schreiber_01_preview,
-  // volz_preview,
+  braune_preview,
+  schreiber_01_preview,
+  volz_preview,
 
   winter_video,
   rumpf_video,
   brauwers_video,
   schaeuble_video,
-  // ho_video,
-  // gasparik_video,
+  ho_video,
+  gasparik_video,
   mircea_01_video,
-  // braune_video,
-  // schreiber_01_video,
-  // volz_video,
+  braune_video,
+  schreiber_01_video,
+  volz_video,
 
   winter_description,
   rumpf_description,
@@ -96,23 +96,23 @@ import {
 
   aparicio_preview,
   aydinli_preview,
-  // grey_preview,
-  // hartmann_preview,
+  grey_preview,
+  hartmann_preview,
   hillebrand_preview,
   przybylska_preview,
-  // rybak_preview,
-  // seybold_preview,
-  // Wilhelm_preview,
+  rybak_preview,
+  seybold_preview,
+  Wilhelm_preview,
 
   aparicio_video,
   aydinli_video,
-  // grey_video,
-  // hartmann_video,
+  grey_video,
+  hartmann_video,
   hillebrand_video,
-  przybylska_video,
-  // rybak_video,
-  // seybold_video,
-  // Wilhelm_video,
+  // przybylska_video,
+  rybak_video,
+  seybold_video,
+  Wilhelm_video,
 
   aparicio_description,
   aydinli_description,
@@ -234,19 +234,19 @@ export const sketchInfo = [
     directory: ""
   },
 
-  // {
-  //   id: 8,
-  //   title: "Dark Chaos",
-  //   artist: "Marco Braune",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "Dark Chaos is an atmospheric and cinematic project. Even before this project, I admired the music in films and always chose music for my own short films / videos very carefully. So this gave me already a feeling for atmosphere and how a track can progress in its mood. To prepare even more for my own creation, I listened again to some of Hans Zimmer's famous tracks, but also to some smaller composers which make their music without any context to films. While listening to the music, I tried to not just get the mood from the music, but also tried to figure out the specific elements that convey the different moods, e.g. tempo, choice of instruments, sound effects. I then incorporated some of the ideas in my own track. While the music is inspired by various film scores, the visuals are inspired by the classic simple look you can find at different music visualizers. Everything was done from scratch, no music loops and no pre-rendered images.",
-  //   description: braune_description,
-  //   image: braune_thumb,
-  //   short_video: braune_trimmed,
-  //   videoPath: braune_video,
-  //   year: '2021',
-  //   directory: ""
-  // },
+  {
+    id: 8,
+    title: "Dark Chaos",
+    artist: "Marco Braune",
+    subtitle: "audiovisual sketch",
+    short_description: "Dark Chaos is an atmospheric and cinematic project. Even before this project, I admired the music in films and always chose music for my own short films / videos very carefully. So this gave me already a feeling for atmosphere and how a track can progress in its mood. To prepare even more for my own creation, I listened again to some of Hans Zimmer's famous tracks, but also to some smaller composers which make their music without any context to films. While listening to the music, I tried to not just get the mood from the music, but also tried to figure out the specific elements that convey the different moods, e.g. tempo, choice of instruments, sound effects. I then incorporated some of the ideas in my own track. While the music is inspired by various film scores, the visuals are inspired by the classic simple look you can find at different music visualizers. Everything was done from scratch, no music loops and no pre-rendered images.",
+    description: braune_description,
+    image: braune_thumb,
+    short_video: braune_trimmed,
+    videoPath: braune_video,
+    year: '2021',
+    directory: ""
+  },
   
   {
     id: 9,
@@ -262,33 +262,33 @@ export const sketchInfo = [
     directory: ""
   },
 
-  // {
-  //   id: 10,
-  //   title: "Fly",
-  //   artist: "Marton Pal",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "This project is inspired by the phenomena of ferrofluids and is all about tension, about how borders give shape and how breaking through those borders enables to form new shapes or merge with others. Audio reactive visuals can either simply be enjoyed or interactively be manipulated.",
-  //   description: gasparik_description,
-  //   image: gasparik_thumb,
-  //   short_video: gasparik_preview,
-  //   videoPath: gasparik_video,
-  //   year: '2021',
-  //   directory: ""
-  // },
+  {
+    id: 10,
+    title: "Fly",
+    artist: "Marton Pal",
+    subtitle: "audiovisual sketch",
+    short_description: "This project is inspired by the phenomena of ferrofluids and is all about tension, about how borders give shape and how breaking through those borders enables to form new shapes or merge with others. Audio reactive visuals can either simply be enjoyed or interactively be manipulated.",
+    description: gasparik_description,
+    image: gasparik_thumb,
+    short_video: gasparik_preview,
+    videoPath: gasparik_video,
+    year: '2021',
+    directory: ""
+  },
 
-  // {
-  //   id: 11,
-  //   title: "SuperFormula",
-  //   artist: "Jonathan Ho",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "In researching ways to implement the code, I came across the aptly named “super formula” - a discovery by Johan Gielis in the year 2000, which can surprisingly create a huge number of shapes, in 2D and, in a modified form, in 3D by just changing 6 variables in the equation. I was intrigued and decided to pursue implementing it in p5. I connected the graphics and audio parts by modulating the values of these variables using the audio signals, resulting in some very interesting emergent behavior. In some ways, this magic formula connects to the mathematical side of the audio I was recording, in that seemingly very complex and varied phenomena can be described and broken down into a relatively elegant looking formula (or maybe they’re all just sine waves after all...).",
-  //   description: ho_description,
-  //   image: ho_thumb,
-  //   short_video: ho_preview,
-  //   videoPath: ho_video,
-  //   year: '2021',
-  //   directory: ""
-  // },
+  {
+    id: 11,
+    title: "SuperFormula",
+    artist: "Jonathan Ho",
+    subtitle: "audiovisual sketch",
+    short_description: "In researching ways to implement the code, I came across the aptly named “super formula” - a discovery by Johan Gielis in the year 2000, which can surprisingly create a huge number of shapes, in 2D and, in a modified form, in 3D by just changing 6 variables in the equation. I was intrigued and decided to pursue implementing it in p5. I connected the graphics and audio parts by modulating the values of these variables using the audio signals, resulting in some very interesting emergent behavior. In some ways, this magic formula connects to the mathematical side of the audio I was recording, in that seemingly very complex and varied phenomena can be described and broken down into a relatively elegant looking formula (or maybe they’re all just sine waves after all...).",
+    description: ho_description,
+    image: ho_thumb,
+    short_video: ho_preview,
+    videoPath: ho_video,
+    year: '2021',
+    directory: ""
+  },
 
   {
     id: 12,
@@ -332,19 +332,19 @@ export const sketchInfo = [
     directory: ""
   },
 
-  // {
-  //   id: 15,
-  //   title: "Heizkraftwerk Moabeat",
-  //   artist: "Vi Schreiber",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "The background is a tunnel which we traverse. The colour changes are created by mapping light color parameters to 3 different frequency ranges in the music: low frequencies = blue, middle frequencies = green and high frequencies = red. I have also written my own shader which deforms the vertices according to the various frequenceis in the music. The fragment shader reacts to the music by multiplying the normal 'brightness' with the bass frequency.",
-  //   description: schreiber_01_description,
-  //   image: schreiber_01_thumb,
-  //   short_video: schreiber_01_preview,
-  //   videoPath: schreiber_01_video,
-  //   year: '2021',
-  //   directory: ""
-  // },
+  {
+    id: 15,
+    title: "Heizkraftwerk Moabeat",
+    artist: "Vi Schreiber",
+    subtitle: "audiovisual sketch",
+    short_description: "The background is a tunnel which we traverse. The colour changes are created by mapping light color parameters to 3 different frequency ranges in the music: low frequencies = blue, middle frequencies = green and high frequencies = red. I have also written my own shader which deforms the vertices according to the various frequenceis in the music. The fragment shader reacts to the music by multiplying the normal 'brightness' with the bass frequency.",
+    description: schreiber_01_description,
+    image: schreiber_01_thumb,
+    short_video: schreiber_01_preview,
+    videoPath: schreiber_01_video,
+    year: '2021',
+    directory: ""
+  },
 
   {
     id: 16,
@@ -399,33 +399,33 @@ export const sketchInfo = [
     directory: ""
   },
 
-  // {
-  //   id: 19,
-  //   title: "Grey",
-  //   artist: "Lukas Grey",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "",
-  //   description: grey_description,
-  //   image: grey_thumb,
-  //   short_video: grey_preview,
-  //   videoPath: grey_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
+  {
+    id: 19,
+    title: "Grey",
+    artist: "Lukas Grey",
+    subtitle: "audiovisual sketch",
+    short_description: "",
+    description: grey_description,
+    image: grey_thumb,
+    short_video: grey_preview,
+    videoPath: grey_video,
+    year: '2020',
+    directory: ""
+  },
 
-  // {
-  //   id: 20,
-  //   title: "Hartmann",
-  //   artist: "Lukas Hartmann",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "",
-  //   description: hartmann_description,
-  //   image: hartmann_thumb,
-  //   short_video: hartmann_preview,
-  //   videoPath: hartmann_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
+  {
+    id: 20,
+    title: "Hartmann",
+    artist: "Lukas Hartmann",
+    subtitle: "audiovisual sketch",
+    short_description: "",
+    description: hartmann_description,
+    image: hartmann_thumb,
+    short_video: hartmann_preview,
+    videoPath: hartmann_video,
+    year: '2020',
+    directory: ""
+  },
 
   {
     id: 21,
@@ -441,61 +441,61 @@ export const sketchInfo = [
     directory: ""
   },
 
+  // {
+  //   id: 22,
+  //   title: "SWARM",
+  //   artist: "Ula Przybylska",
+  //   subtitle: "audiovisual sketch",
+  //   short_description: "Swarm is a story of a bee. My audio piece shows the world from the perspective of an insect troubled by human politics. Group of bees enjoys living and working together until it's distrupted by sounds of the protests from the outside. They need to fly out, swarm and find the better future for themselves and for the protesting humans. They want to build an utopy together.",
+  //   description: przybylska_description,
+  //   image: przybylska_thumb,
+  //   short_video: przybylska_preview,
+  //   videoPath: przybylska_video,
+  //   year: '2020',
+  //   directory: ""
+  // },
+
   {
-    id: 22,
-    title: "SWARM",
-    artist: "Ula Przybylska",
+    id: 23,
+    title: "Rybak",
+    artist: "Alex Rybak",
     subtitle: "audiovisual sketch",
-    short_description: "Swarm is a story of a bee. My audio piece shows the world from the perspective of an insect troubled by human politics. Group of bees enjoys living and working together until it's distrupted by sounds of the protests from the outside. They need to fly out, swarm and find the better future for themselves and for the protesting humans. They want to build an utopy together.",
-    description: przybylska_description,
-    image: przybylska_thumb,
-    short_video: przybylska_preview,
-    videoPath: przybylska_video,
+    short_description: "",
+    description: rybak_description,
+    image: rybak_thumb,
+    short_video: rybak_preview,
+    videoPath: rybak_video,
     year: '2020',
     directory: ""
   },
 
-  // {
-  //   id: 23,
-  //   title: "Rybak",
-  //   artist: "Alex Rybak",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "",
-  //   description: rybak_description,
-  //   image: rybak_thumb,
-  //   short_video: rybak_preview,
-  //   videoPath: rybak_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
+  {
+    id: 24,
+    title: "Seybold",
+    artist: "Paul Seybold",
+    subtitle: "audiovisual sketch",
+    short_description: "",
+    description: seybold_description,
+    image: seybold_thumb,
+    short_video: seybold_preview,
+    videoPath: seybold_video,
+    year: '2020',
+    directory: ""
+  },
 
-  // {
-  //   id: 24,
-  //   title: "Seybold",
-  //   artist: "Paul Seybold",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "",
-  //   description: seybold_description,
-  //   image: seybold_thumb,
-  //   short_video: seybold_preview,
-  //   videoPath: seybold_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
-
-  // {
-  //   id: 25,
-  //   title: "Wilhelm",
-  //   artist: "Sebastian Wilhelm",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "",
-  //   description: Wilhelm_description,
-  //   image: wilhelm_thumb,
-  //   short_video: Wilhelm_preview,
-  //   videoPath: Wilhelm_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
+  {
+    id: 25,
+    title: "Wilhelm",
+    artist: "Sebastian Wilhelm",
+    subtitle: "audiovisual sketch",
+    short_description: "",
+    description: Wilhelm_description,
+    image: wilhelm_thumb,
+    short_video: Wilhelm_preview,
+    videoPath: Wilhelm_video,
+    year: '2020',
+    directory: ""
+  },
 
 
 
