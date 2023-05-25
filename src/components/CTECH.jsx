@@ -4,11 +4,11 @@ import styles from "../style";
 
 const AboutPage = () => {
   return (
-    <div className="about-page">
+    <div className={`${styles.flexCenter} about-page`}>
       <h1 className='about-title'> {ctechPage.title} </h1>
       <h2 className='about-subtitle'> {ctechPage.subtitle} </h2>
-      <div className={`about-content ${styles.flexCenter}`}>
-        <div className="about-text">
+      <div className={`${styles.flexCenter} ${styles.boxWidth} about-content`}>
+        <div className={`${styles.flexCenter} ${styles.boxWidth} about-text`}>
           <p>
             {ctechPage.description}
           </p>
