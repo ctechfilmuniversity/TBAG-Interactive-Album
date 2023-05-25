@@ -14,13 +14,13 @@ import {
   schreiber_thumb,
   vasilkova_thumb,
 
-  dakic_trimmed,
-  mircea_trimmed,
-  pang_trimmed,
-  passing_trimmed,
-  podoleanu_trimmed,
-  schreiber_trimmed,
-  vasilkova_trimmed,
+  dakic_preview,
+  mircea_preview,
+  pang_preview,
+  passing_preview,
+  podoleanu_preview,
+  schreiber_preview,
+  vasilkova_preview,
 
   dakic_video,
   mircea_video,
@@ -144,7 +144,7 @@ export const sketchInfo = [
     short_description: "I want to create two parallel digital beings that exist next to each other. The peaceful and an aggressive one. They should be confronting each other through audio and visual contrasts, and aggressive one should overtake the other one, but on the end I would like the balance and synergy to prevail.",
     description: dakic_description,
     image: dakic_thumb,
-    short_video: dakic_trimmed,
+    short_video: dakic_preview,
     videoPath: dakic_video,
     year: '2022',
     directory: ""
@@ -158,7 +158,7 @@ export const sketchInfo = [
     short_description: "Drawing inspiration from the chaos and energy of big cities, the project aims to create a captivating and immersive synesthetic experience that challenges the viewer to explore the connection between sound and color. The title plays with the idea of a 'city break', while also referencing the concept of breath, which is essential to both human life and the life of a city.",
     description: mircea_description,
     image: mircea_thumb,
-    short_video: mircea_trimmed,
+    short_video: mircea_preview,
     videoPath: mircea_video,
     year: '2022',
     directory: ""
@@ -172,7 +172,7 @@ export const sketchInfo = [
     short_description: "Scientists found that mushrooms 'talk' using electrical impulses that spike when fungi come into contact with food sources or potential dangers. Originally I wanted to use mushrooms impulses for the sound data but it was diffifcult to grow mushrooms in winter. Instead, various plants and myself were used for generating the sound data.",
     description: pang_description,
     image: pang_thumb,
-    short_video: pang_trimmed,
+    short_video: pang_preview,
     videoPath: pang_video,
     year: '2022',
     directory: ""
@@ -186,7 +186,7 @@ export const sketchInfo = [
     short_description: "The main idea was combining elements from the dream pop aesthetics with themes of retro futurism or space travel. I especially wanted to have a 'floating' kind of vibe that could both be floating through space or water.",
     description: passing_description,
     image: passing_thumb,
-    short_video: passing_trimmed,
+    short_video: passing_preview,
     videoPath: passing_video,
     year: '2022',
     directory: ""
@@ -200,7 +200,7 @@ export const sketchInfo = [
     short_description: "An infinite monochrome grid stretches over the horizon. Fast broken beats stimulate the literal building blocks of this abstract pattern. They rise, jitter and flash in sync with the energetic music. Like drawn into a vortex you ride the stepped waves of cyberspace.",
     description: podoleanu_description,
     image: podoleanu_thumb,
-    short_video: podoleanu_trimmed,
+    short_video: podoleanu_preview,
     videoPath: podoleanu_video,
     year: '2022',
     directory: ""
@@ -214,7 +214,7 @@ export const sketchInfo = [
     short_description: "My original idea of depicting the brain and the reaction to different emotions was discarded during the creation of the sound track. For me it was the first sound project and therefore I had difficulties to express the different feelings through sound. Especially the transition between the different emotions didn't really work. The basis of my new idea is still the brain. The soundtrack is intended to represent the brain in a simplified way as a working machine. The viewer will be guided through the individual areas of the brain, which are audio-visually encapsulated from each other. Basically, each area has a similar process but still differs from each other in some details.",
     description: schreiber_description,
     image: schreiber_thumb,
-    short_video: schreiber_trimmed,
+    short_video: schreiber_preview,
     videoPath: schreiber_video,
     year: '2022',
     directory: ""
@@ -228,7 +228,7 @@ export const sketchInfo = [
     short_description: "Initially my idea was to a generative A/V 'cityscape' using different technics in mapping of generative sound and image, but because this kind of project would take much more time and research I ended up making a short audio visual sketch that with a lot imagination could resemble mention cityscape.",
     description: vasilkova_description,
     image: vasilkova_thumb,
-    short_video: vasilkova_trimmed,
+    short_video: vasilkova_preview,
     videoPath: vasilkova_video,
     year: '2022',
     directory: ""
@@ -242,7 +242,7 @@ export const sketchInfo = [
     short_description: "Dark Chaos is an atmospheric and cinematic project. Even before this project, I admired the music in films and always chose music for my own short films / videos very carefully. So this gave me already a feeling for atmosphere and how a track can progress in its mood. To prepare even more for my own creation, I listened again to some of Hans Zimmer's famous tracks, but also to some smaller composers which make their music without any context to films. While listening to the music, I tried to not just get the mood from the music, but also tried to figure out the specific elements that convey the different moods, e.g. tempo, choice of instruments, sound effects. I then incorporated some of the ideas in my own track. While the music is inspired by various film scores, the visuals are inspired by the classic simple look you can find at different music visualizers. Everything was done from scratch, no music loops and no pre-rendered images.",
     description: braune_description,
     image: braune_thumb,
-    short_video: braune_trimmed,
+    short_video: braune_preview,
     videoPath: braune_video,
     year: '2021',
     directory: ""
@@ -297,7 +297,7 @@ export const sketchInfo = [
     subtitle: "audiovisual sketch",
     short_description: "A TRIP DOWN THE SUPERMARKET explores perspectives on supermarkets and the temporality of life. A mixture of alternate reality, surrealism and the superfulousness of a supermarket driven world, create a harmonic and hypnotic audiovisual interraction.",
     description: mircea_description,
-    image: mircea_thumb,
+    image: mircea_01_thumb,
     short_video: mircea_01_preview,
     videoPath: mircea_video,
     year: '2021',

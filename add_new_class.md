@@ -31,19 +31,19 @@ class year (e.g. 2223)
 │   └── vasilkova.mp4
 ├── 03_short_videos
 │   ├── andreea.mp4
-│   ├── dakic_trimmed.mp4
+│   ├── dakic_preview.mp4
 │   ├── dakik.mp4
-│   ├── mircea_trimmed.mp4
+│   ├── mircea_preview.mp4
 │   ├── pang.mp4
-│   ├── pang_trimmed.mp4
+│   ├── pang_preview.mp4
 │   ├── passing.mp4
-│   ├── passing_trimmed.mp4
+│   ├── passing_preview.mp4
 │   ├── podoleanu.mp4
-│   ├── podoleanu_trimmed.mp4
+│   ├── podoleanu_preview.mp4
 │   ├── schreiber.mp4
-│   ├── schreiber_trimmed.mp4
+│   ├── schreiber_preview.mp4
 │   ├── vasilkova.mp4
-│   └── vasilkova_trimmed.mp4
+│   └── vasilkova_preview.mp4
 └── 04_descriptions
     ├── dakic.md
     ├── mircea.md

@@ -16,14 +16,14 @@ import podoleanu_thumb from "./2223/01_thumbnails/podoleanu_thumb.png";
 import schreiber_thumb from "./2223/01_thumbnails/schreiber_thumb.png";
 import vasilkova_thumb from "./2223/01_thumbnails/vasilkova_thumb.png";
 //   short videos:
-// ffmpeg -ss 00:01:00 -to 00:01:30 -i vasilkova_trimmed.mp4 -c copy vasilkova_trimmed_2.mp4
-import dakic_trimmed from "./2223/03_short_videos/dakic_trimmed.mp4";
-import mircea_trimmed from "./2223/03_short_videos/mircea_trimmed.mp4";
-import pang_trimmed from "./2223/03_short_videos/pang_trimmed.mp4";
-import passing_trimmed from "./2223/03_short_videos/passing_trimmed.mp4";
-import podoleanu_trimmed from "./2223/03_short_videos/podoleanu_trimmed.mp4";
-import schreiber_trimmed from "./2223/03_short_videos/schreiber_trimmed.mp4";
-import vasilkova_trimmed from "./2223/03_short_videos/vasilkova_trimmed.mp4";
+// ffmpeg -ss 00:01:00 -to 00:01:30 -i vasilkova_preview.mp4 -c copy vasilkova_preview_2.mp4
+import dakic_preview from "./2223/03_short_videos/dakic_preview.mp4";
+import mircea_preview from "./2223/03_short_videos/mircea_preview.mp4";
+import pang_preview from "./2223/03_short_videos/pang_preview.mp4";
+import passing_preview from "./2223/03_short_videos/passing_preview.mp4";
+import podoleanu_preview from "./2223/03_short_videos/podoleanu_preview.mp4";
+import schreiber_preview from "./2223/03_short_videos/schreiber_preview.mp4";
+import vasilkova_preview from "./2223/03_short_videos/vasilkova_preview.mp4";
 //   videos:
 import dakic_video from "./2223/02_videos/dakic.mp4";
 import mircea_video from "./2223/02_videos/mircea.mp4";
@@ -165,13 +165,13 @@ export {
   schreiber_thumb,
   vasilkova_thumb,
 
-  dakic_trimmed,
-  mircea_trimmed,
-  pang_trimmed,
-  passing_trimmed,
-  podoleanu_trimmed,
-  schreiber_trimmed,
-  vasilkova_trimmed,
+  dakic_preview,
+  mircea_preview,
+  pang_preview,
+  passing_preview,
+  podoleanu_preview,
+  schreiber_preview,
+  vasilkova_preview,
 
   dakic_video,
   mircea_video,
