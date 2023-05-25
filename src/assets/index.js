@@ -271,6 +271,6 @@ export {
   przybylska_description,
   rybak_description,
   seybold_description,
-  Wilhelm_description,
+  wilhelm_description,
   
 };
