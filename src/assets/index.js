@@ -132,7 +132,7 @@ import hillebrand_description from "./2021/04_descriptions/hillebrand.md";
 import przybylska_description from "./2021/04_descriptions/przybylska.md";
 import rybak_description from "./2021/04_descriptions/rybak.md";
 import seybold_description from "./2021/04_descriptions/seybold.md";
-import Wilhelm_description from "./2021/04_descriptions/Wilhelm.md";
+import wilhelm_description from "./2021/04_descriptions/wilhelm.md";
 
 
 // class of 1920
