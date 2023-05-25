@@ -80,20 +80,22 @@ HandBrakeCLI -i inputFile.mp4 --start-at seconds:60 --stop-at seconds:30 --outpu
 for a whole folder, you can use this batch processing command:
 
 ```shell
-for file in *.*; do HandBrakeCLI -i "$file" --start-at seconds:60 --stop-at seconds:30 --output "./optimized/${file%.*}_preview.mp4" --preset "Social 50 MB 5 Minutes 720p30"; done
+for file in *.mkv; do HandBrakeCLI -i "$file" --start-at seconds:60 --stop-at seconds:30 --output "./optimized/${file%.*}_preview.mp4" --preset "Social 50 MB 5 Minutes 720p30"; done
 ```
 
 ```shell
 ffmpeg -ss 00:01:00 -to 00:01:30 -i input.mp4 -c copy output_preview.mp4
 ```
 
+The produced preview videos should be placed in the `classname/03_short_videos` directory.
+
 ## videos:
 
 ```shell
-for file in *.*; do HandBrakeCLI -i "$file" --output "./optimized/${file%.*}_preview.mp4" --preset "Social 100 MB 5 Minutes 1080p30"; done
+for file in *.mkv; do HandBrakeCLI -i "$file" --output "./optimized/${file%.*}.mp4" --preset "Social 100 MB 5 Minutes 1080p30"; done
 ```
+The produced preview videos should be placed in the `classname/02_videos` directory.
 
-The produced videos should be placed in the `03_short_videos` directory.
 
 ## Descriptions
 
