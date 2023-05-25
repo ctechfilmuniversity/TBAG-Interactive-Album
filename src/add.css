@@ -1,0 +1,82 @@
+.parallelogram-container {
+    display: flex;
+    flex-wrap: nowrap;
+    /* overflow-x: auto; */
+    /* overflow-y: hidden;
+    white-space: nowrap;
+  }
+  
+  .parallelogram {
+    /* width: calc(50% - 10px); */
+    width: 100px;
+    height: 10%;
+    /* padding-bottom: 30%; */
+    /* margin-right: 80px; */
+    position: relative;
+    /* overflow: hidden; */
+  }
+  
+  .parallelogram .masked {
+    /* position: absolute; */
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    transform: skew(20deg);
+  }
+  
+  .parallelogram-container {
+    /* width: 80%;
+    height: 100%;
+    display: flex;
+    justify-content: space-between;
+    position: relative; */
+    /* repeat(auto-fill, minmax(20em, 1fr)); */
+    height: 100%;
+    max-width: 90%;
+    position: relative;
+    width: 100%;
+    /* top: calc(50px + 1rem); */
+    /* bottom: 0px;
+    left: 10%;
+    right: 10%; */
+    /* display: grid; */
+    /* grid-template-columns: repeat(8, 1fr); */
+    justify-content: space-between;
+    /* transform: translateX(-15%); */
+  }
+  
+  .parallelogram {
+    position: relative;
+    width: 90%;
+    height: 80%;
+    overflow: hidden;
+    transition: transform 0.2s ease-in-out;
+    transform: skew(-20deg) translateX(-50%);
+  
+    background: linear-gradient(
+      157.81deg,
+      #def9fa -43.27%,
+      #bef3f5 -21.24%,
+      #9dedf0 12.19%,
+      #7de7eb 29.82%,
+      #5ce1e6 51.94%,
+      #33bbcf 90.29%
+    );
+  }
+  
+  .parallelogram img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    transform: skew(20deg) scale(230%);
+  }
+  
+  .parallelogram:hover {
+    transform: scale(1.5) skew(-20deg);
+    object-fit: cover;
+  } 
