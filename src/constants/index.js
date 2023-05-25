@@ -102,17 +102,17 @@ import {
   przybylska_preview,
   rybak_preview,
   seybold_preview,
-  Wilhelm_preview,
+  wilhelm_preview,
 
   aparicio_video,
   aydinli_video,
   grey_video,
   hartmann_video,
   hillebrand_video,
-  // przybylska_video,
+  przybylska_video,
   rybak_video,
   seybold_video,
-  Wilhelm_video,
+  wilhelm_video,
 
   aparicio_description,
   aydinli_description,
@@ -122,7 +122,7 @@ import {
   przybylska_description,
   rybak_description,
   seybold_description,
-  Wilhelm_description,
+  wilhelm_description,
 
   //class of 2020
 
@@ -360,17 +360,6 @@ export const sketchInfo = [
     directory: ""
   },
 
-  //TODO: add the following sketches:
-  // aparicio_thumb,
-  // aydinli_thumb,
-  // grey_thumb,
-  // hartmann_thumb,
-  // hillebrand_thumb,
-  // przybylska_thumb,
-  // rybak_thumb,
-  // seybold_thumb,
-  // wilhelm_thumb,
-
   {
     id: 17,
     title: "Sleep Paralysis",
@@ -401,7 +390,7 @@ export const sketchInfo = [
 
   {
     id: 19,
-    title: "Grey",
+    title: "Thoughts In Progress",
     artist: "Lukas Grey",
     subtitle: "audiovisual sketch",
     short_description: "",
@@ -415,7 +404,7 @@ export const sketchInfo = [
 
   {
     id: 20,
-    title: "Hartmann",
+    title: "Origami Clouds / a weird muesli morning",
     artist: "Lukas Hartmann",
     subtitle: "audiovisual sketch",
     short_description: "",
@@ -441,23 +430,23 @@ export const sketchInfo = [
     directory: ""
   },
 
-  // {
-  //   id: 22,
-  //   title: "SWARM",
-  //   artist: "Ula Przybylska",
-  //   subtitle: "audiovisual sketch",
-  //   short_description: "Swarm is a story of a bee. My audio piece shows the world from the perspective of an insect troubled by human politics. Group of bees enjoys living and working together until it's distrupted by sounds of the protests from the outside. They need to fly out, swarm and find the better future for themselves and for the protesting humans. They want to build an utopy together.",
-  //   description: przybylska_description,
-  //   image: przybylska_thumb,
-  //   short_video: przybylska_preview,
-  //   videoPath: przybylska_video,
-  //   year: '2020',
-  //   directory: ""
-  // },
+  {
+    id: 22,
+    title: "SWARM",
+    artist: "Ula Przybylska",
+    subtitle: "audiovisual sketch",
+    short_description: "Swarm is a story of a bee. My audio piece shows the world from the perspective of an insect troubled by human politics. Group of bees enjoys living and working together until it's distrupted by sounds of the protests from the outside. They need to fly out, swarm and find the better future for themselves and for the protesting humans. They want to build an utopy together.",
+    description: przybylska_description,
+    image: przybylska_thumb,
+    short_video: przybylska_preview,
+    videoPath: przybylska_video,
+    year: '2020',
+    directory: ""
+  },
 
   {
     id: 23,
-    title: "Rybak",
+    title: "Alien Swamp",
     artist: "Alex Rybak",
     subtitle: "audiovisual sketch",
     short_description: "",
@@ -471,7 +460,7 @@ export const sketchInfo = [
 
   {
     id: 24,
-    title: "Seybold",
+    title: "A Moment Of Creativity",
     artist: "Paul Seybold",
     subtitle: "audiovisual sketch",
     short_description: "",
@@ -485,14 +474,14 @@ export const sketchInfo = [
 
   {
     id: 25,
-    title: "Wilhelm",
+    title: "Hero of Kyoto",
     artist: "Sebastian Wilhelm",
     subtitle: "audiovisual sketch",
     short_description: "",
-    description: Wilhelm_description,
+    description: wilhelm_description,
     image: wilhelm_thumb,
-    short_video: Wilhelm_preview,
-    videoPath: Wilhelm_video,
+    short_video: wilhelm_preview,
+    videoPath: wilhelm_video,
     year: '2020',
     directory: ""
   },

@@ -118,7 +118,7 @@ import aydinli_video from "./2021/02_videos/aydinli.mp4";
 import grey_video from "./2021/02_videos/grey.mp4";
 import hartmann_video from "./2021/02_videos/hartmann.mp4";
 import hillebrand_video from "./2021/02_videos/hillebrand.mp4";
-// import przybylska_video from "./2021/02_videos/przybylska.mp4";
+import przybylska_video from "./2021/02_videos/przybylska.mp4";
 import rybak_video from "./2021/02_videos/rybak.mp4";
 import seybold_video from "./2021/02_videos/seybold.mp4";
 import wilhelm_video from "./2021/02_videos/wilhelm.mp4";
@@ -258,7 +258,7 @@ export {
   grey_video,
   hartmann_video,
   hillebrand_video,
-  // przybylska_video,
+  przybylska_video,
   rybak_video,
   seybold_video,
   wilhelm_video,
