@@ -8,6 +8,7 @@ import www from "./www.png";
 
 // class of 2223
 //   thumbnails:
+import aviram_thumb from "./2223/01_thumbnails/aviram_thumb.png";
 import dakic_thumb from "./2223/01_thumbnails/dakic_thumb.png";
 import mircea_thumb from "./2223/01_thumbnails/mircea_thumb.png";
 import pang_thumb from "./2223/01_thumbnails/pang_thumb.png";
@@ -16,7 +17,7 @@ import podoleanu_thumb from "./2223/01_thumbnails/podoleanu_thumb.png";
 import schreiber_thumb from "./2223/01_thumbnails/schreiber_thumb.png";
 import vasilkova_thumb from "./2223/01_thumbnails/vasilkova_thumb.png";
 //   short videos:
-// ffmpeg -ss 00:01:00 -to 00:01:30 -i vasilkova_preview.mp4 -c copy vasilkova_preview_2.mp4
+import aviram_preview from "./2223/03_short_videos/aviram_preview.mp4";
 import dakic_preview from "./2223/03_short_videos/dakic_preview.mp4";
 import mircea_preview from "./2223/03_short_videos/mircea_preview.mp4";
 import pang_preview from "./2223/03_short_videos/pang_preview.mp4";
@@ -25,6 +26,7 @@ import podoleanu_preview from "./2223/03_short_videos/podoleanu_preview.mp4";
 import schreiber_preview from "./2223/03_short_videos/schreiber_preview.mp4";
 import vasilkova_preview from "./2223/03_short_videos/vasilkova_preview.mp4";
 //   videos:
+import aviram_video from "./2223/02_videos/aviram.mp4";
 import dakic_video from "./2223/02_videos/dakic.mp4";
 import mircea_video from "./2223/02_videos/mircea.mp4";
 import pang_video from "./2223/02_videos/pang.mp4";
@@ -33,6 +35,7 @@ import podoleanu_video from "./2223/02_videos/podoleanu.mp4";
 import schreiber_video from "./2223/02_videos/schreiber.mp4";
 import vasilkova_video from "./2223/02_videos/vasilkova.mp4";
 //   descriptions:
+import aviram_description from "./2223/04_descriptions/aviram.md";
 import dakic_description from "./2223/04_descriptions/dakic.md";
 import mircea_description from "./2223/04_descriptions/mircea.md";
 import pang_description from "./2223/04_descriptions/pang.md";
@@ -134,7 +137,6 @@ import rybak_description from "./2021/04_descriptions/rybak.md";
 import seybold_description from "./2021/04_descriptions/seybold.md";
 import wilhelm_description from "./2021/04_descriptions/wilhelm.md";
 
-
 // class of 1920
 //   thumbnails:
 //   short videos:
@@ -145,9 +147,6 @@ import wilhelm_description from "./2021/04_descriptions/wilhelm.md";
 //   short videos:
 //   videos:
 
-
-
-
 export {
   menu,
   close,
@@ -156,7 +155,9 @@ export {
   linkedin,
   twitter,
   www,
-
+  //2223
+  //   thumbnails:
+  aviram_thumb,
   dakic_thumb,
   mircea_thumb,
   pang_thumb,
@@ -164,7 +165,8 @@ export {
   podoleanu_thumb,
   schreiber_thumb,
   vasilkova_thumb,
-
+  //   short videos:
+  aviram_preview,
   dakic_preview,
   mircea_preview,
   pang_preview,
@@ -172,7 +174,8 @@ export {
   podoleanu_preview,
   schreiber_preview,
   vasilkova_preview,
-
+  //   videos:
+  aviram_video,
   dakic_video,
   mircea_video,
   pang_video,
@@ -180,7 +183,8 @@ export {
   podoleanu_video,
   schreiber_video,
   vasilkova_video,
-
+  //   descriptions:
+  aviram_description,
   dakic_description,
   mircea_description,
   pang_description,
@@ -188,7 +192,8 @@ export {
   podoleanu_description,
   schreiber_description,
   vasilkova_description,
-
+  //2122
+  //   thumbnails:
   winter_thumb,
   rumpf_thumb,
   brauwers_thumb,
@@ -199,7 +204,7 @@ export {
   braune_thumb,
   schreiber_01_thumb,
   volz_thumb,
-
+  //   short videos:
   winter_preview,
   rumpf_preview,
   brauwers_preview,
@@ -210,7 +215,7 @@ export {
   braune_preview,
   schreiber_01_preview,
   volz_preview,
-
+  //   videos:
   winter_video,
   rumpf_video,
   brauwers_video,
@@ -221,7 +226,7 @@ export {
   braune_video,
   schreiber_01_video,
   volz_video,
-
+  //   descriptions:
   winter_description,
   rumpf_description,
   brauwers_description,
@@ -232,7 +237,8 @@ export {
   braune_description,
   schreiber_01_description,
   // volz_description,
-
+  //2021
+  //   thumbnails:
   aparicio_thumb,
   aydinli_thumb,
   grey_thumb,
@@ -242,7 +248,7 @@ export {
   rybak_thumb,
   seybold_thumb,
   wilhelm_thumb,
-
+  //   short videos:
   aparicio_preview,
   aydinli_preview,
   grey_preview,
@@ -252,7 +258,7 @@ export {
   rybak_preview,
   seybold_preview,
   wilhelm_preview,
-
+  //   videos:
   aparicio_video,
   aydinli_video,
   grey_video,
@@ -262,7 +268,7 @@ export {
   rybak_video,
   seybold_video,
   wilhelm_video,
-
+  //   descriptions:
   aparicio_description,
   aydinli_description,
   grey_description,
@@ -272,5 +278,4 @@ export {
   rybak_description,
   seybold_description,
   wilhelm_description,
-  
 };
