@@ -6,6 +6,46 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import www from "./www.png";
 
+// class of 2324
+//   thumbnails:
+import rueth_thumb from "./2324/01_thumbnails/rueth_thmub.png";
+import maas_thumb from "./2324/01_thumbnails/maas_thmub.png";
+import streicher_thumb from "./2324/01_thumbnails/streicher_thumb.png";
+import ferro_thumb from "./2324/01_thumbnails/ferro_thumb.png";
+import schaefer_thumb from "./2324/01_thumbnails/schaefer_thumb.png";
+import huson_thumb from "./2324/01_thumbnails/huson_thumb.png";
+import angelova_thumb from "./2324/01_thumbnails/angelova_thumb.png";
+import plichta_thumb from "./2324/01_thumbnails/plichta_thumb.png";
+//   short videos:
+import rueth_preview from "./2324/03_short_videos/rueth_preview.mp4";
+import maas_preview from "./2324/03_short_videos/maas_preview.mp4";
+import streicher_preview from "./2324/03_short_videos/streicher_preview.mp4";
+import ferro_preview from "./2324/03_short_videos/ferro_preview.mp4";
+import schaefer_preview from "./2324/03_short_videos/schaefer_preview.mp4";
+import huson_preview from "./2324/03_short_videos/huson_preview.mp4";
+import angelova_preview from "./2324/03_short_videos/angelova_preview.mp4";
+import plichta_preview from "./2324/03_short_videos/plichta_preview.mp4";
+//   videos:
+import rueth_video from "./2324/02_videos/rueth.mp4";
+import maas_video from "./2324/02_videos/maas.mp4";
+import streicher_video from "./2324/02_videos/streicher.mp4";
+import ferro_video from "./2324/02_videos/ferro.mp4";
+import schaefer_video from "./2324/02_videos/schaefer.mp4";
+import huson_video from "./2324/02_videos/huson.mp4";
+import angelova_video from "./2324/02_videos/angelova.mp4";
+import plichta_video from "./2324/02_videos/plichta.mp4";
+//   descriptions:
+import rueth_description from "./2324/04_descriptions/rueth.md";
+import maas_description from "./2324/04_descriptions/maas.md";
+import streicher_description from "./2324/04_descriptions/streicher.md";
+import ferro_description from "./2324/04_descriptions/ferro.md";
+import schaefer_description from "./2324/04_descriptions/schaefer.md";
+import huson_description from "./2324/04_descriptions/huson.md";
+import angelova_description from "./2324/04_descriptions/angelova.md";
+import plichta_description from "./2324/04_descriptions/plichta.md";
+
+
+
 // class of 2223
 //   thumbnails:
 import aviram_thumb from "./2223/01_thumbnails/aviram_thumb.png";
@@ -155,6 +195,43 @@ export {
   linkedin,
   twitter,
   www,
+  //2324 
+  rueth_thumb,
+  maas_thumb,
+  streicher_thumb,
+  ferro_thumb,
+  schaefer_thumb,
+  huson_thumb,
+  angelova_thumb,
+  plichta_thumb,
+
+  rueth_preview,
+  maas_preview,
+  streicher_preview,
+  ferro_preview,
+  schaefer_preview,
+  huson_preview,
+  angelova_preview,
+  plichta_preview,
+
+  rueth_video,
+  maas_video,
+  streicher_video,
+  ferro_video,
+  schaefer_video,
+  huson_video,
+  angelova_video,
+  plichta_video,
+
+  rueth_description,
+  maas_description,
+  streicher_description,
+  ferro_description,
+  schaefer_description,
+  huson_description,
+  angelova_description,
+  plichta_description,
+
   //2223
   //   thumbnails:
   aviram_thumb,
