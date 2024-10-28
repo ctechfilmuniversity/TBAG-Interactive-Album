@@ -679,7 +679,7 @@ export const navLinks = [
   {
     id: "albums",
     title: "Albums",
-    classes: ["2020", "2021", "2022"],
+    classes: ["2020", "2021", "2022", "2023"],
   },
   {
     id: "ctech",
