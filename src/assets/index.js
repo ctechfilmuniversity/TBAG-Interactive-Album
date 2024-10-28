@@ -10,9 +10,9 @@ import www from "./www.png";
 //   thumbnails:
 import rueth_thumb from "./2324/01_thumbnails/rueth_thmub.png";
 import maas_thumb from "./2324/01_thumbnails/maas_thmub.png";
-import streicher_thumb from "./2324/01_thumbnails/streicher_thumb.png";
+import streicher_thumb from "./2324/01_thumbnails/streicher_thumb.jpg";
 import ferro_thumb from "./2324/01_thumbnails/ferro_thumb.png";
-import schaefer_thumb from "./2324/01_thumbnails/schaefer_thumb.png";
+import schaefer_thumb from "./2324/01_thumbnails/schaefer_thumb.jpg";
 import huson_thumb from "./2324/01_thumbnails/huson_thumb.png";
 import angelova_thumb from "./2324/01_thumbnails/angelova_thumb.png";
 import plichta_thumb from "./2324/01_thumbnails/plichta_thumb.png";
