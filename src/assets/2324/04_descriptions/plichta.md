@@ -16,7 +16,7 @@ The layout of the cubes in 3D space follows the structure of the song that I pro
 
   The user can also find some "natural" sounds hidden in the village below the floating cubes.  
 
-![playhead_v1_screenshot.jpg](pics%2Fplayhead_v1_screenshot.jpg)
+
 
 ## From Ableton song to AR app
 - In Ableton I dissected my original track in 1 sec pieces and exported 656 audio files (more or less by hand) separately. For example, for the drums I would put the snare and the high head on different layers and so on a separate file which is represented by the cubes in my AR app.   
