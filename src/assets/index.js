@@ -8,8 +8,8 @@ import www from "./www.png";
 
 // class of 2324
 //   thumbnails:
-import rueth_thumb from "./2324/01_thumbnails/rueth_thmub.png";
-import maas_thumb from "./2324/01_thumbnails/maas_thmub.png";
+import rueth_thumb from "./2324/01_thumbnails/rueth_thumb.png";
+import maas_thumb from "./2324/01_thumbnails/maas_thumb.png";
 import streicher_thumb from "./2324/01_thumbnails/streicher_thumb.jpg";
 import ferro_thumb from "./2324/01_thumbnails/ferro_thumb.png";
 import schaefer_thumb from "./2324/01_thumbnails/schaefer_thumb.jpg";
