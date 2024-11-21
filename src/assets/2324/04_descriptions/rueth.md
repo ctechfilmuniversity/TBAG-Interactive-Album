@@ -8,10 +8,6 @@
 
 "THERE IS NO TIME" is a project that aims to create a cinematic, mysterious and escapist atmosphere. The cold, harsh environment of an arctic landscape, which at the same time represents a surreal beauty, is intended to create an unnatural, dream-like setting that has a certain hypnotic attraction. However, you shouldn't stay there too long, because the real world and its problems could catch up with you and time is running out. You have to act before it's too late.
 
-![Img1](Time_1.png)
-![Img1](Time_2.png)
-![Img1](Time_3.png)
-
 
 ## TECHNICAL CHOICES
 
@@ -53,9 +49,3 @@ I decided to use Blender as a 3D tool. My reasons are the following:
 It was a really great experience for me to work on this project. Even though I played the violin a few years ago, it was still quite difficult to create my own soundtrack that sounds good in a certain way. Having never been serious about sound design before, working with a DAW (in my case REAPER) was definitely a challenge and I had a lot of difficulties at first. But after a few sessions of just experimenting with the programme and different audio tracks, I was eventually able to produce something I liked. Of course it's far from perfect, but I'm happy with how the final track turned out. The combination of Blender and Geometry Nodes for visual design was a really interesting but challenging experience, but it was also a great learning opportunity. I learnt a lot of new things through this course and definitely got a good insight into track production, which makes me appreciate professional sound design even more! I definitely got some new ideas for future projects!
 
 
-# Files
-### google drive link for DAW and Audio files: https://drive.google.com/drive/folders/1zTspRjbZEaW9jxsAMc4oacnzuiLRCYx6?usp=sharing
-
-
-
-### google drive link for Blender and MP4 files: https://drive.google.com/drive/folders/1M43aEr7khBvBON6tdOXLUoEQXi9ykOa2?usp=sharing

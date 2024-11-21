@@ -8,11 +8,6 @@ It's a journey from overwhelming chaos to serene calm. Initially suffocating and
 
 
 
- 
-## Moodboard 
-
-![Moodboard](moodboard.png)
-
 ## Technical Choices
 
 ### Audio
@@ -40,11 +35,6 @@ When the tinnitus arrives, the city disappears and a particle system appears aro
 
 ### 
 
-![IMG_1](screenshots/4.png) 
-![IMG_2](screenshots/1.png)
-![IMG_3](screenshots/2.png)
-![IMG_4](screenshots/3.png)
-
 ## Artistic Intention 
 
 In my project I wanted to explore the concepts of chaos and silence and how they relate to anxiety and relaxation. We are constantly under sound pressure, overloaded with sound impulses that can be both external, especially if we live in a big city, and also internal, our own thoughts. 
@@ -53,21 +43,6 @@ My aim was to immediately immerse the listener in an uncomfortable and suffocati
 
 How do we feel when it's too much? What can we do when we feel suffocated? How does the reality change around us? At some point we can't recognise it anymore, everything goes blank. But if we concentrate on our own breathing, we may be able to come back to a calm reality. 
 
-## Learning and Reflections
-
-All in all it was a great and fulfilling experience. I've liked the idea of an audioreactive track from the very beginning, and I had a lot of fun and enjoyment making it. 
-
-Composing the music was the hardest part for me personally. I've never used a digital audio workstation before and it was a real challenge. It took me a lot of time to make small changes to the tracks. I'm still not completly happy with the result that I got, but I'm grateful that I had to do it and it gave me the motivation to try to do something else. 
-
-Working with Three.js was not easy either, but as soon as I got the first results I was so excited that I wanted to keep going! I had the help of chatGPT to write some of the code, but I like to call it a collaboration, as I had to explain very carefully how I wanted things to be and how they should be done to get working code. I struggled for hours to find a good solution for the transition and the final part. It was hard to find something that would work along with the code that I had already written.
-
-### Files
-
-Inside of [this drive](https://drive.google.com/drive/folders/1SiziDtBXAaMRCW8Eod6Nwqr7A6WeB_1B?usp=sharing) you can find:
-
-* a folder with the DAW project file and assets
-* .mp3 and .wav sound file
-* .mp4 file 
 
 
 

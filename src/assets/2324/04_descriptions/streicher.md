@@ -4,7 +4,6 @@ Final Project in TBAG Wintersemester2023/24 - Adam Streicher
 ## The Dark Side of Rock and Roll
 In this project, I explore the theorety of live decoding audio signals through the creation of a dynamic three js scene. In the set of a dark cave a shiny chromesphere follows the rhythm and character of a dramatic and percussive experimental music track. Sound and motion are synchronized through differt volumetric fields of influence. Within certain spectrums of frequency non-trivial systems are pushing and pulling floating rocks around and create on louder sounds captivating impulses.
 
-![img2](./doc/tbag_streicher_img2.jpg)
 
 ### Context
 This well-polished project is also my final submission for Creative Coding 1. The seperation for the evaluation is that in TBAG I want to focus on how I processed and decoded the audio to have them work as well-managable imputs to drive the visual systems of the code. Furthermore I'll take a brief look into the creation of the music piece.
@@ -12,8 +11,6 @@ This well-polished project is also my final submission for Creative Coding 1. Th
 ### Music Piece
 
 The audio track is maily composed of AI-prompted samples using Stableaudio and some field recordings. Preparing with careful editing and sampling of the audio snippets I created randomized arrangement systems for percussive elements. Other snippets where heavily altert through equalizing, streching or pitching. After my first composition in Reaper, I exported the processed layers into Ableton Live that I used for the very first time. There I utilized plugins to procedurally distribute delays and other effects in stereo space. Eventually, I automized some effects over time to enhance the compositional effects and then mastered the audio using equalizers and compressors for export. Even if this might have not been the cleanest workflow I managed to create something highly dynamic to drive later animations.
-
-![img3](./doc/tbag_streicher_img3.jpg)
 
 
 ### Audio Processing
@@ -24,10 +21,5 @@ I looked at the audio visualizer example and read through the AudioAnalyser docu
 
 This made sense, so wanted to write a function where I could input frequncy values. First the FFTSize had to be increased from the default 64. Since it cuts the frequncynumbers in even parts it does not consider the logarythmical hearing of humans. For example, I wanted to access the amplitude of frequncies around 35Hz so I had to increase the FFTSize up to 512 to not get strange behaviour trying to access it. The SampleRate of my Audio was 44100 Hz as usually. Eventually, I turned both into variables and wrote this function that would return me a smoothed amplitude which I could use for driving my animations. 
 
-![img4](./doc/tbag_streicher_img4.png)
-
 The previousAmplitude is a storage variable that holds the amplitude of the previous frame. It is used for smoothing using linear interpolate and is updated in the within the animate function.
 
-My video is here on the repository in the video subfolder.
-
-![img1](./doc/tbag_streicher_img1.jpg)

@@ -23,13 +23,9 @@ The layout of the cubes in 3D space follows the structure of the song that I pro
 
 
 ## Videos
-[Project page: Videos and work in progress](https://www.notion.so/artbymarek/Playhead-900159110863482b8344ccd50d9a4f9a?pvs=4)
+https://www.notion.so/artbymarek/Playhead-900159110863482b8344ccd50d9a4f9a?pvs=4
 
 Please note: I made one version for Tbag and then I worked a few days more on other features for CC. Version v1 is the one for Tbag. 
-
-## Project files
-[Unity 2022 Project file on Dropbox](https://www.dropbox.com/scl/fo/7l9lb10gpevrxamnqa00o/h?rlkey=depjewbavioonlk9vol7n2hxv&dl=0)
-
   
   
 ## Description of the technical choices
@@ -39,9 +35,7 @@ Please note: I made one version for Tbag and then I worked a few days more on ot
 
  ## Description of the artistic intention
 - When I finished school I travelled in south-east asia and spent a lot of time sitting in the deep jungle. The orchestra of nature sounds was mesmerizing to me. I sometimes couldn't believe the richness and variety of sounds. I had my sketchbook with me to draw but I really wished I had a directional microphone with me to record all the beauty I heard. This made me want to explore the idea of a directional microphone in the virtual world. I think there is a lot of potential from an interaction design perspective as most exploring is done with sight. In the process of working on this project I also remembered a work of one of my favorite artist, Nam Jun Paik that made it possible to explore a song in a non-linear way already in 1963. 
-  
-  ![Nam June Paik Randomaccess 1963](pics/namjunepaik_randomaccess_1963.jpg)
-  
+    
 ## Learnings and reflections
 - I learned a lot about music production and making. I had no experience in this before and was happy to learn how to use a DAW and make some music. 
 - I learned a lot more about Unity and C#. The project was technically very challenging for me and at the same time fun to tackle. 

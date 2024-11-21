@@ -3,8 +3,6 @@
 ## Idea ##
 A warm, bass and field recordings-driven meditative track, coupled with visuals reminiscent of a sea of neon lights; rendered somewhere between the style of a bokeh photograph and a crayon drawing. 
 
-![img1](img/tbag_img1.png)
-
 ## Technical Choices ##
 I stuck with *three.js* and used *Logic Pro* for the audio. Halfway through working on the project, my local *node.js* and *Vim* setup fell apart. I didn't have the time to fix it so I resorted to a simple online library setup. 
 
@@ -27,13 +25,3 @@ On top of using the sound frequencies to animate the y-axis of the spheres, I al
 
 ### Audio ###
 The verse part of the riff sounds very visual and meditative to me. I decided to use it for this project and wanted to create a melodic track with a typical song structure and combine that with disparate field recordings. I was inspired by Laura Misch's 2023 album "Sample The Sky", which quite seamlessly blends a lot of nature field recordings into accessible jazz tracks. I wanted to use the field recordings as instruments that supported and contrasted the underlying chord structure and melodies. I decided to keep the (almost painfully) high frequencies of the cicadas in the track because it felt like it situated the rest of the music somewhere outdoors too. 
-
-**LINK to mp4 & audio:** https://owncloud.gwdg.de/index.php/s/igk4vOYv5ybCiFv PW: tbag_huson
-
-## Learnings and Reflection ##
-- Improved my JavaScript skills
-- Started thinking about how visuals and audio can work together as well as how to do this technically - the journey has just begun! 
-- Gained a better understanding of the components required to render a 3D image on the screen in a specific way.
-- The camera movement isn't quite where I want it to be - it looks laggy at times and I'm also not really happy with how it synchronizes with the track. But there's only so much one can do in a few days...
-
-![img2](img/tbag-img2.png)

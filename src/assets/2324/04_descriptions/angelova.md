@@ -2,8 +2,6 @@
 
 ## The story
 
-<img src="./img/space-travellers-0.png" width=1000></img>
-
 _Space encounters._
 
 _Fragments of a typical day in this Universe._
@@ -27,8 +25,6 @@ The sound is composed by me in _Reaper_, and is a mixture of different types of 
 
 ## Intention
 
-[Link to the MP4 file](https://owncloud.gwdg.de/index.php/s/nYmf96LjZWFVLLY) with password: _tbag-galina_
-
 I like stories and with this project, I wanted to try and create one of my own.
 It is inspired by different cartoon animations, that I have watched as a kid or that I still watch.
 I really enjoyed the whole process of creating the characters and thinking about their backgrounds.
@@ -41,10 +37,4 @@ Or at least this is what I was imaging while working on it, and what I hoped for
 
 _Notes:_ When starting the project, an information pop-up will appear. This is part of _Theater.js_, so just click _OK_ on it and the animation will start. For the project description in the album, only [__The Story__](#the-story) section is relevant.
 
-## More visuals
 
-<img src="./img/space-travellers.gif" width=500></img> <img src="./img/space-eggs-dancing.gif" width=500></img>
-
-<img src="./img/space-travellers-1.png" width=500></img> <img src="./img/whisperer.png" width=500></img>
-
----
