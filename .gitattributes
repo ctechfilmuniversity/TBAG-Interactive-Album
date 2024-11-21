@@ -1,3 +1,1 @@
-rueth.mp4~ filter=lfs diff=lfs merge=lfs -text
-maas.mp4~ filter=lfs diff=lfs merge=lfs -text
-huson.mp4~ filter=lfs diff=lfs merge=lfs -text
+*.mp4 filter=lfs diff=lfs merge=lfs -text
