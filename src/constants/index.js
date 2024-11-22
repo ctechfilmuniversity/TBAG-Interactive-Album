@@ -243,7 +243,7 @@ export const sketchInfo = [
   {
     id: 31,
     title: "Thus",
-    artist: "Moritz Huson",
+    artist: "Moritz",
     subtitle: "audiovisual sketch",
     short_description: `A warm, bass and field recordings-driven meditative track, coupled with visuals reminiscent of a sea of neon lights; rendered somewhere between the style of a bokeh photograph and a crayon drawing. `,
     description: huson_description,
