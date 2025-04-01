@@ -31,12 +31,12 @@ import labenz_video from "./2425/02_videos/labenz.mp4";
 import palomar_video from "./2425/02_videos/palomar.mp4";
 import thill_video from "./2425/02_videos/thill.mp4";
 //   descriptions:
-import bunge_description from "./2324/04_descriptions/bunge.md";
-import drews_description from "./2324/04_descriptions/drews.md";
-import gerdes_description from "./2324/04_descriptions/gerdes.md";
-import labenz_description from "./2324/04_descriptions/labenz.md";
-import palomar_description from "./2324/04_descriptions/palomar.md";
-import thill_description from "./2324/04_descriptions/thill.md";
+import bunge_description from "./2425/04_descriptions/bunge.md";
+import drews_description from "./2425/04_descriptions/drews.md";
+import gerdes_description from "./2425/04_descriptions/gerdes.md";
+import labenz_description from "./2425/04_descriptions/labenz.md";
+import palomar_description from "./2425/04_descriptions/palomar.md";
+import thill_description from "./2425/04_descriptions/thill.md";
 
 
 
