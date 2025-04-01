@@ -6,6 +6,41 @@ import linkedin from "./linkedin.svg";
 import twitter from "./twitter.svg";
 import www from "./www.png";
 
+
+// class of 2425
+//   thumbnails:
+import bunge_thumb from "./2425/01_thumbnails/bunge_thumb.jpg";
+import drews_thumb from "./2425/01_thumbnails/drews_thumb.png";
+import gerdes_thumb from "./2425/01_thumbnails/gerdes_thumb.jpg";
+import labenz_thumb from "./2425/01_thumbnails/labenz_thumb.png";
+import palomar_thumb from "./2425/01_thumbnails/palomar_thumb.png";
+import thill_thumb from "./2425/01_thumbnails/thill_thumb.png";
+//   short videos:
+import bunge_preview from "./2425/03_short_videos/bunge_preview.mp4";
+import drews_preview from "./2425/03_short_videos/drews_preview.mp4";
+import gerdes_preview from "./2425/03_short_videos/gerdes_preview.mp4";
+import labenz_preview from "./2425/03_short_videos/labenz_preview.mp4";
+import palomar_preview from "./2425/03_short_videos/palomar_preview.mp4";
+import thill_preview from "./2425/03_short_videos/thill_preview.mp4";
+
+//   videos:
+import bunge_video from "./2425/02_videos/bunge.mp4";
+import drews_video from "./2425/02_videos/drews.mp4";
+import gerdes_video from "./2425/02_videos/gerdes.mp4";
+import labenz_video from "./2425/02_videos/labenz.mp4";
+import palomar_video from "./2425/02_videos/palomar.mp4";
+import thill_video from "./2425/02_videos/thill.mp4";
+//   descriptions:
+import bunge_description from "./2324/04_descriptions/bunge.md";
+import drews_description from "./2324/04_descriptions/drews.md";
+import gerdes_description from "./2324/04_descriptions/gerdes.md";
+import labenz_description from "./2324/04_descriptions/labenz.md";
+import palomar_description from "./2324/04_descriptions/palomar.md";
+import thill_description from "./2324/04_descriptions/thill.md";
+
+
+
+
 // class of 2324
 //   thumbnails:
 import rueth_thumb from "./2324/01_thumbnails/rueth_thumb.png";
@@ -195,6 +230,38 @@ export {
   linkedin,
   twitter,
   www,
+  
+    //2425 
+  bunge_thumb,
+  drews_thumb,
+  gerdes_thumb,
+  labenz_thumb,
+  palomar_thumb,
+  thill_thumb,
+  
+  bunge_preview,
+  drews_preview,
+  gerdes_preview,
+  labenz_preview,
+  palomar_preview,
+  thill_preview,
+  
+  bunge_video,
+  drews_video,
+  gerdes_video,
+  labenz_video,
+  palomar_video,
+  thill_video,
+  
+  bunge_description,
+  drews_description,
+  gerdes_description,
+  labenz_description,
+  palomar_description,
+  thill_description,
+  
+  
+  
   //2324 
   rueth_thumb,
   maas_thumb,

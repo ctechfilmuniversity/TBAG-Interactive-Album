@@ -1,0 +1,5 @@
+# Day 1
+
+## Concept and idea:
+
+For the animation, I wanted to capture the feeling of the first day at the film university. This experience is characterized by constantly moving between different rooms, navigating through winding corridors, and using various transportation methods like elevators or bridges – all while keeping an eye on your backpack. Since you don't know anyone yet, you experience this orientation phase mostly alone. I captured these diverse impressions such as the unique architecture, the rushing from place to place, and the general disorientation in an Escher-like visual style combined with authentic sounds from the film university.

@@ -5,6 +5,39 @@ import {
   twitter,
   www,
  
+
+  //2425 
+  bunge_thumb,
+  drews_thumb,
+  gerdes_thumb,
+  labenz_thumb,
+  palomar_thumb,
+  thill_thumb,
+
+
+  bunge_preview,
+  drews_preview,
+  gerdes_preview,
+  labenz_preview,
+  palomar_preview,
+  thill_preview,
+
+  bunge_video,
+  drews_video,
+  gerdes_video,
+  labenz_video,
+  palomar_video,
+  thill_video,
+
+  bunge_description,
+  drews_description,
+  gerdes_description,
+  labenz_description,
+  palomar_description,
+  thill_description,
+
+
+
   
   //2324 
   rueth_thumb,
@@ -169,6 +202,98 @@ import {
 
 // Sketch info object
 export const sketchInfo = [
+
+  {
+    id: 34,
+    title: "Echoes of Space: Filmuni in Sound & Form",
+    artist: "Sophie Bunge",
+    subtitle: "audiovisual sketch",
+    short_description: `This project explores how people interact with the building through sound and abstraction. I recorded
+everyday sounds—doors, footsteps, the S7 Bahn—capturing the essence of Filmuni. Visually, I focused
+on some core essences of the building: the red staircase, metal grid handrails, mirrored pillars, and
+earthy elements. The design integrates architectural patterns, emphasizing materials like concrete
+and glass to create an abstract yet familiar representation of the space.`,
+    description: bunge_description,
+    image: bunge_thumb,
+    short_video: bunge_preview,
+    videoPath: bunge_video,
+    year: "2024",
+    directory: "",
+  },
+
+  {
+    id: 35,
+    title: "Growth (placeholder Title)",
+    artist: "Imogen Drews",
+    subtitle: "audiovisual sketch",
+    short_description: `For my final project, I drew inspiration from the winter garden at the university. Despite the overall industrial architecture of the campus, I've always found this space to be incredibly calming. It became the foundation for my piece, which explores the idea that the university is incomplete without the people who inhabit it. To convey this, I focused on the ivy that climbs the university’s walls. I designed the ivy to grow in response to the presence of human sounds, such as whispers and the sound of footsteps on gravel. I also intentionally made the camera movement feel erratic, adding a sense of human presence. To enhance this effect, I incorporated a vignette in DaVinci, creating a spotlight-like effect reminiscent of a torch. This emphasizes the idea that the ivy grows only when a person is near. `,
+    description: drews_description,
+    image: drews_thumb,
+    short_video: drews_preview,
+    videoPath: drews_video,
+    year: "2024",
+    directory: "",
+  },
+
+  {
+    id: 36,
+    title: "Day 1 (placeholder title)",
+    artist: "Gorm Labenz",
+    subtitle: "audiovisual sketch",
+    short_description: `For the animation, I wanted to capture the feeling of the first day at the film university. This experience is characterized by constantly moving between different rooms, navigating through winding corridors, and using various transportation methods like elevators or bridges – all while keeping an eye on your backpack. Since you don't know anyone yet, you experience this orientation phase mostly alone. I captured these diverse impressions such as the unique architecture, the rushing from place to place, and the general disorientation in an Escher-like visual style combined with authentic sounds from the film university.`,
+    description: labenz_description,
+    image: labenz_thumb,
+    short_video: labenz_preview,
+    videoPath: labenz_video,
+    year: "2024",
+    directory: "",
+  },
+
+  {
+    id: 37,
+    title: "A forest being born",
+    artist: "David Leonardo Pirazán Palomar",
+    subtitle: "audiovisual sketch",
+    short_description: `The Filmuni is a place where individuals gather and grow as a forest where every tree is as important as the other. My project is called "A forest being born" and it is inspired in the way I feel about being at our FIlmuni. I arrived as a grounded tree that is growing together with other trees. Some of them have more experience in that ecosystem, other are coming after me, but all of us are crating a richer landscape with the potential of impacting other lives in a positive way with our creations.`,
+    description: palomar_description,
+    image: palomar_thumb,
+    short_video: palomar_preview,
+    videoPath: palomar_video,
+    year: "2024",
+    directory: "",
+  },
+
+  {
+    id: 38,
+    title: "anticipation",
+    artist: "Philipp Gerdes",
+    subtitle: "audiovisual sketch",
+    short_description: `The audiovisual loop describes an ever-repeating symbiotic alternation of pressure and release. With the rotating film roll sequence, a methodical industrial setting is established, suggesting the disciplined craft behind artistic expression. A factory-like sonic atmosphere reinforces the notion that meaningful creation requires structured processes and technical precision. Throughout the red corridor, a sense of intensity and determination is created, ultimately manifesting creative breakthrough in dramatic lighting and sound changes. After rising to the next level, the impending cycle of the whole process is revealed.`,
+    description: gerdes_description,
+    image: gerdes_thumb,
+    short_video: gerdes_preview,
+    videoPath: gerdes_video,
+    year: "2024",
+    directory: "",
+  },
+
+  {
+    id: 39,
+    title: "Filmuni (placeholder)",
+    artist: "Aydin Thill",
+    subtitle: "audiovisual sketch",
+    short_description: `For my final project, I created a 3D scene paired with a self-composed musical piece. The theme "Filmuni" inspired me to construct a speculative model that represents the university in a unique and unexpected way. Drawing inspiration from Transformers, which have always been a showcase of the possibilities of CGI, I decided to create a Transformer-like creature built from architectural elements of Filmuni. The aggressive and powerful design of this entity reflects the intensity of the final weeks of working on various university projects.`,
+    description: thill_description,
+    image: thill_thumb,
+    short_video: thill_preview,
+    videoPath: thill_video,
+    year: "2024",
+    directory: "",
+  },
+
+
+
+
 
   {
     id: 26,
