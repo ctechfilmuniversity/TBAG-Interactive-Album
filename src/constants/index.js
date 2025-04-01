@@ -223,7 +223,7 @@ and glass to create an abstract yet familiar representation of the space.`,
 
   {
     id: 35,
-    title: "Growth (placeholder Title)",
+    title: "Resonant Growth",
     artist: "Imogen Drews",
     subtitle: "audiovisual sketch",
     short_description: `For my final project, I drew inspiration from the winter garden at the university. Despite the overall industrial architecture of the campus, I've always found this space to be incredibly calming. It became the foundation for my piece, which explores the idea that the university is incomplete without the people who inhabit it. To convey this, I focused on the ivy that climbs the university’s walls. I designed the ivy to grow in response to the presence of human sounds, such as whispers and the sound of footsteps on gravel. I also intentionally made the camera movement feel erratic, adding a sense of human presence. To enhance this effect, I incorporated a vignette in DaVinci, creating a spotlight-like effect reminiscent of a torch. This emphasizes the idea that the ivy grows only when a person is near. `,
@@ -237,7 +237,7 @@ and glass to create an abstract yet familiar representation of the space.`,
 
   {
     id: 36,
-    title: "Day 1 (placeholder title)",
+    title: "Day I",
     artist: "Gorm Labenz",
     subtitle: "audiovisual sketch",
     short_description: `For the animation, I wanted to capture the feeling of the first day at the film university. This experience is characterized by constantly moving between different rooms, navigating through winding corridors, and using various transportation methods like elevators or bridges – all while keeping an eye on your backpack. Since you don't know anyone yet, you experience this orientation phase mostly alone. I captured these diverse impressions such as the unique architecture, the rushing from place to place, and the general disorientation in an Escher-like visual style combined with authentic sounds from the film university.`,
@@ -266,7 +266,7 @@ and glass to create an abstract yet familiar representation of the space.`,
   {
     id: 38,
     title: "anticipation",
-    artist: "Philipp Gerdes",
+    artist: "Philip Gerdes",
     subtitle: "audiovisual sketch",
     short_description: `The audiovisual loop describes an ever-repeating symbiotic alternation of pressure and release. With the rotating film roll sequence, a methodical industrial setting is established, suggesting the disciplined craft behind artistic expression. A factory-like sonic atmosphere reinforces the notion that meaningful creation requires structured processes and technical precision. Throughout the red corridor, a sense of intensity and determination is created, ultimately manifesting creative breakthrough in dramatic lighting and sound changes. After rising to the next level, the impending cycle of the whole process is revealed.`,
     description: gerdes_description,
@@ -279,7 +279,7 @@ and glass to create an abstract yet familiar representation of the space.`,
 
   {
     id: 39,
-    title: "Filmuni (placeholder)",
+    title: "Transformation",
     artist: "Aydin Thill",
     subtitle: "audiovisual sketch",
     short_description: `For my final project, I created a 3D scene paired with a self-composed musical piece. The theme "Filmuni" inspired me to construct a speculative model that represents the university in a unique and unexpected way. Drawing inspiration from Transformers, which have always been a showcase of the possibilities of CGI, I decided to create a Transformer-like creature built from architectural elements of Filmuni. The aggressive and powerful design of this entity reflects the intensity of the final weeks of working on various university projects.`,
